@@ -44,4 +44,4 @@ to reference the layout/main.axml file, or R.strings.first_string to reference t
 string in the dictionary file values/strings.xml.
 
 
- Test 1st commit Jagger
+ Test 1st commit Jagger 
